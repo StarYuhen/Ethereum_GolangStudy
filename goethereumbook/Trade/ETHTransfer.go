@@ -58,7 +58,5 @@ func main() {
 	  Gas usage: 21000
 	  Block Number: 1
 	  Block Time: Mon Oct 03 2022 16:01:22 GMT+0800 (中国标准时间)
-
-
 	*/
 }
